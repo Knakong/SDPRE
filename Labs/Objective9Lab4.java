@@ -25,6 +25,7 @@ public class Objective9Lab4{
     System.out.println("The average of " + num1 + " and " + num2 + " is " + answer);
     //prints both numbers and the average of both numbers
 
+    kb.close();
   }
   public static double findAverage(double num1, double num2){
     //method that returns a double
